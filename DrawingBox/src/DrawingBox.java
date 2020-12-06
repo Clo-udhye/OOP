@@ -12,7 +12,7 @@ public class DrawingBox extends JPanel {
 	Color randColor; //random color를 저장할 변수 선언
 
 	public static void main(String[] args) {
-		JFrame f = new JFrame("201501202 박다혜"); //프레임 이름설정
+		JFrame f = new JFrame("DrawingBox"); //프레임 이름설정
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.setContentPane(new DrawingBox());//컨텐츠팬설정
 		f.setSize(500, 500);
