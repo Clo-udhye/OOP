@@ -14,7 +14,8 @@ public class MyName extends JComponent {
 			//배경 설정
 			Image img;
 			img = ImageIO.read(new File("./background.jpeg"));
-			g.drawImage(img, 0, 0, null);
+			g.drawImage(img, 0, 0, getParent().getWidth(), getParent().getHeight(), null);
+			
 			//이름쓰기 - 박
 			Color brown = new Color(205,133,63);
 			g.setColor(brown);
