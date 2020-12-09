@@ -174,7 +174,7 @@ MyList 프로그램을 종료합니다.
     - [<] 숫자 한글자 지우기  
 
 **2. 출력**  
-![electronic_calculator](./resource/ElectronicCalculator)  
+![electronic_calculator](./resource/ElectronicCalculator.png)  
 
 ### DrawingBox  
 **1. 정의**  
@@ -183,4 +183,4 @@ MyList 프로그램을 종료합니다.
 - 새로운 사각형을 그릴 때 마다 랜덤으로 한가지 색을 정하여 사각형 내부를 칠한다. 단, 테두리는 항상 빨간색으로 그려져야 한다.  
 
 **2. 출력**  
-![drawing_box](./resource/drawing_box)  
+![drawing_box](./resource/drawing_box.png)  
