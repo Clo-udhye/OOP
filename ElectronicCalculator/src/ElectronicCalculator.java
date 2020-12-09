@@ -31,8 +31,8 @@ public class ElectronicCalculator extends JFrame {
 	int width = 100, height = 100; // 기본 버튼의 크기
 
 	ElectronicCalculator() {
-		setTitle("자바계산기  - 박다혜");
-		setSize(560, 780); // 프레임 사이즈 결정
+		setTitle("자바계산기");
+		setSize(580, 780); // 프레임 사이즈 결정
 
 		Container contentPane = getContentPane(); // 현재 컨텐츠팬을 get
 		contentPane.setLayout(null); // 레이아웃 매니저를 null로 지정해 버튼의 위치를 개별로 설정
