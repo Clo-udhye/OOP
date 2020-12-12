@@ -1,15 +1,15 @@
 # :bulb: OOP:bulb:  
 2016 객체지향프로그래밍. java programming  
 
-[:bulb:PerfectNumber](###-bulbPerfectNumber)  
-[:bulb:ArithmeticExpression](###-bulbArithmeticExpression )  
-[:bulb:GregorianCalendar](###-bulbGregorianCalendar)  
-[:bulb:ReverseString](###-bulbReverseString)  
-[:bulb:FigureEditor](###-bulbFigureEditor)  
-[:bulb:DrawingName](###-bulbDrawingName)  
-[:bulb:MyList](###-bulbMyList)  
-[:bulb:ElectronicCalculator](###-bulbElectronicCalculator)  
-[:bulb:DrawingBox](###-bulbDrawingBox)  
+:bulb:[PerfectNumber](###-bulb-PerfectNumber)  
+:bulb:[ArithmeticExpression](###-bulbArithmeticExpression )  
+:bulb:[GregorianCalendar](###-bulbGregorianCalendar)  
+:bulb:[ReverseString](###-bulbReverseString)  
+:bulb:[FigureEditor](###-bulbFigureEditor)  
+:bulb:[DrawingName](###-bulbDrawingName)  
+:bulb:[MyList](###-bulbMyList)  
+:bulb:[ElectronicCalculator](###-bulbElectronicCalculator)  
+:bulb:[DrawingBox](###-bulbDrawingBox)  
 
 ### :bulb:PerfectNumber  
 **1. 정의**    
