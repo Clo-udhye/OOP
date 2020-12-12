@@ -2,16 +2,16 @@
 2016 객체지향프로그래밍. java programming  
 
 :bulb:[PerfectNumber](###-bulb-PerfectNumber)  
-:bulb:[ArithmeticExpression](###-bulbArithmeticExpression )  
-:bulb:[GregorianCalendar](###-bulbGregorianCalendar)  
-:bulb:[ReverseString](###-bulbReverseString)  
-:bulb:[FigureEditor](###-bulbFigureEditor)  
-:bulb:[DrawingName](###-bulbDrawingName)  
-:bulb:[MyList](###-bulbMyList)  
-:bulb:[ElectronicCalculator](###-bulbElectronicCalculator)  
-:bulb:[DrawingBox](###-bulbDrawingBox)  
+:bulb:[ArithmeticExpression](###-bulb-ArithmeticExpression )  
+:bulb:[GregorianCalendar](###-bulb-GregorianCalendar)  
+:bulb:[ReverseString](###-bulb-ReverseString)  
+:bulb:[FigureEditor](###-bulb-FigureEditor)  
+:bulb:[DrawingName](###-bulb-DrawingName)  
+:bulb:[MyList](###-bulb-MyList)  
+:bulb:[ElectronicCalculator](###-bulb-ElectronicCalculator)  
+:bulb:[DrawingBox](###-bulb-DrawingBox)  
 
-### :bulb:PerfectNumber  
+### :bulb: PerfectNumber  
 **1. 정의**    
 1~10000사이의 완전수(Perfect number)를 구하는 프로그램.  
 > 완전수(Perfect number)란?  
@@ -27,7 +27,7 @@ Perfect number 496 = 1 + 2 + 4 + 8 + 16 + 31 + 62 + 124 + 248
 Perfect number 8128 = 1 + 2 + 4 + 8 + 16 + 32 + 64 + 127 + 254 + 508 + 1016 + 2032 + 4064
 ```
 
-### :bulb:ArithmeticExpression  
+### :bulb: ArithmeticExpression  
 **1. 정의**    
  a, b, c에 대한 세가지 산술식 x, y, z    
  ![arithmetic_expression](./resource/arithmetic_expression.png)  
@@ -55,7 +55,7 @@ a, b, c 값에 대한 산술식 x, y, z를 계산하여 결과를 화면에 출�
 (2, 7, 2)    -0.314      16383.000       2397.000
 ```
 
-### :bulb:GregorianCalendar  
+### :bulb: GregorianCalendar  
 **1. 정의**  
 날짜를 입력 받아 1900년 1월 1일부터의 날짜수와 그 날의 요일을 출력하는 프로그램.  
 **2. 입력**  
@@ -67,7 +67,7 @@ a, b, c 값에 대한 산술식 x, y, z를 계산하여 결과를 화면에 출�
 2020-12-09의 요일은 수요일
 ```
 
-### :bulb:ReverseString  
+### :bulb: ReverseString  
 **1. 정의**  
 Stack구조를 구현, Stack을 이용해 주어진 Original 문자열의 글자 순서를 역순으로 뒤집어 Reverse 문자열을 출력.  
 **2. 출력**  
@@ -84,7 +84,7 @@ Original = "grapefruit"
 Reverse = "tiurfeparg"
 ```
 
-### :bulb:FigureEditor  
+### :bulb: FigureEditor  
 **1. 정의**  
 메뉴 입력을 통해 도형을 추가하는 프로그램. 추상 클래스 Figure를 사용하고 클래스 상속구조를 따라 각 도형 클래스를 만든다. 여섯개의 도형 직사각형, 정사각형, 타원, 원, 이등변삼각형, 정삼각형  
 - 추상클래스 Figure  
@@ -121,13 +121,13 @@ Clo-udhye의 도형 편집기 □○△ 메뉴
 1 : 타원 (너비 = 200.0, 높이 = 100.0, 넓이 = 15708.0, 둘레 = 496.7)
 ```
 
-### :bulb:DrawingName  
+### :bulb: DrawingName  
 **1. 정의**  
 java.awt 패키지에서 제공하는 다양한 도형을 사용하여 본인의 이름을 예쁘게 그리시오.  
 **2. 출력**  
 ![drawing_name](./resource/drawing_name.png)  
 
-### :bulb:MyList  
+### :bulb: MyList  
 **1. 정의**  
 - 제네릭 인테페이스 ListInterface를 구현하는 제네릭 클래스 MyList를 작성.   
 ```java
@@ -174,7 +174,7 @@ interface ListInterface<T> {
 MyList 프로그램을 종료합니다.
 ```
 
-### :bulb:ElectronicCalculator  
+### :bulb: ElectronicCalculator  
 **1. 정의**  
 전자계산기를 구현.  
 - 사칙 연산 기능은 일반적인 전자계산기 동작을 참고한다.  
@@ -186,7 +186,7 @@ MyList 프로그램을 종료합니다.
 **2. 출력**  
 ![electronic_calculator](./resource/ElectronicCalculator.png)  
 
-### :bulb:DrawingBox  
+### :bulb: DrawingBox  
 **1. 정의**  
 마우스를 드래깅하여 사각형을 그리는 프로그램을 작성.  
 - 시작점을 기준으로 어떤 방향으로 움직이더라도 시작점과 끝점을 꼭지점으로 하는 직사각형이 그려지도록 한다.  
